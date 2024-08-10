@@ -1,2 +1,11 @@
 npm create vite@latest
 npm i react-router-dom in frontrend
+
+
+in backend 
+
+npm init
+npm i express mongoose jsonwebro
+ken bcrypt cors dotenv body-parser multer stripe validator nodemon
+
+  "type":"module", for e6
